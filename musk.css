@@ -1,5 +1,9 @@
 .box.leftbox>ing {
 	align-self: left;
 }
-sect
+section>#box>.leftbox>ing{
+	align-self: center;
+}
+iframe{
+	align-self: center;
 }
